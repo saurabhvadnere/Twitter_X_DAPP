@@ -61,5 +61,5 @@ Before running the project, make sure you have:
 
 ## 🔎 Smart Contract Verification
 
-You can verify all tweet transactions on **Etherscan** using the deployed contract address:
+You can verify all tweet transactions on **Etherscan** using the deployed contract address:0xB4170b0C99D0c96D219FD21224c65De24Cbd7300
 
